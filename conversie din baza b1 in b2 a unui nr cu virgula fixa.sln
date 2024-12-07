@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conversie din baza b1 in b2 a unui nr cu virgula fixa", "conversie din baza b1 in b2 a unui nr cu virgula fixa\conversie din baza b1 in b2 a unui nr cu virgula fixa.csproj", "{0087543F-4C65-4AB0-A077-D3D1C71E09B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0087543F-4C65-4AB0-A077-D3D1C71E09B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0087543F-4C65-4AB0-A077-D3D1C71E09B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0087543F-4C65-4AB0-A077-D3D1C71E09B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0087543F-4C65-4AB0-A077-D3D1C71E09B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD4E35E9-05F6-4DD2-B619-853C480DAD04}
+	EndGlobalSection
+EndGlobal
